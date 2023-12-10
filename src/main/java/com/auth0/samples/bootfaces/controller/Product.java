@@ -1,4 +1,4 @@
-package entity;
+package com.auth0.samples.bootfaces.controller;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
